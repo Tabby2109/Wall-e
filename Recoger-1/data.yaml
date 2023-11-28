@@ -1,0 +1,18 @@
+names:
+- Acero
+- Carton
+- Cigarro
+- Cigarro Entero
+- Cigarro Medio
+- Plastico
+- Tapa
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: recoger
+  url: https://universe.roboflow.com/universidad-tcnica-federico-santa-mara-ukkje/recoger/dataset/1
+  version: 1
+  workspace: universidad-tcnica-federico-santa-mara-ukkje
+test: ../test/images
+train: Recoger-1/train/images
+val: Recoger-1/valid/images
